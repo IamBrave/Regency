@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="24px" viewBox="0 0 14 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>dollar [#1189]</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="117.981774%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4335C6" offset="0%"></stop>
+            <stop stop-color="#5D7DE0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="REGENCYONE-главная" transform="translate(-483.000000, -6034.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M489,6045 C486.339,6045 485,6043.371 485,6041.5 C485,6039.691 486.271,6038 489,6038 L489,6045 Z M495,6050.5 L495,6050.5 C495,6052.309 493.729,6054 491,6054 L491,6047 C493.661,6047 495,6048.629 495,6050.5 L495,6050.5 Z M497,6050.5 L497,6050.5 C497,6047.732 494.975,6045 491,6045 L491,6038 L493,6038 C494.105,6038 495,6038.895 495,6040 L497,6040 C497,6037.791 495.209,6036 493,6036 L491,6036 L491,6034 L489,6034 L489,6036 C485.042,6036 483,6038.722 483,6041.5 C483,6044.268 485.025,6047 489,6047 L489,6054 L487,6054 C485.895,6054 485,6053.105 485,6052 L483,6052 C483,6054.209 484.791,6056 487,6056 L489,6056 L489,6058 L491,6058 L491,6056 C494.958,6056 497,6053.278 497,6050.5 L497,6050.5 Z" id="dollar-[#1189]"></path>
+        </g>
+    </g>
+</svg>

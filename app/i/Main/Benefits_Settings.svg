@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>settings [#1365]</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="117.981774%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4335C6" offset="0%"></stop>
+            <stop stop-color="#5D7DE0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="REGENCYONE-главная" transform="translate(-944.000000, -6036.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M960.562554,6055.38777 L951.867681,6046.69476 C950.307678,6048.25443 947.777915,6048.25443 946.217912,6046.69476 L944.585001,6045.0622 C943.805,6044.28237 943.805,6043.01826 944.585001,6042.23842 C945.365003,6041.45859 946.630384,6041.45859 947.410386,6042.23842 C948.496995,6043.3248 949.68847,6043.22495 950.45449,6042.4581 C951.226502,6041.68625 951.319383,6040.49803 950.229777,6039.40965 C949.449776,6038.62982 949.449776,6037.36471 950.229777,6036.58488 C951.010778,6035.80504 952.27516,6035.80504 953.055162,6036.58488 L954.692067,6038.22143 C956.25207,6039.7811 956.25207,6042.31032 954.692067,6043.86998 L963.386939,6052.56399 C965.255548,6054.4312 962.429165,6057.25398 960.562554,6055.38777" id="settings-[#1365]"></path>
+        </g>
+    </g>
+</svg>

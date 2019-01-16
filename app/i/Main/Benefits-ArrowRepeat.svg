@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow_repeat [#237]</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="117.981774%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4335C6" offset="0%"></stop>
+            <stop stop-color="#5D7DE0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="REGENCYONE-главная" transform="translate(-1407.000000, -6227.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M1414,6234 L1414,6238 L1420,6238 L1420,6236 L1416,6236 L1416,6234 L1414,6234 Z M1421,6237 C1421,6240 1418.308,6243 1415,6243 C1411.692,6243 1409,6240.308 1409,6237 C1409,6233.692 1411.692,6231 1415,6231 L1415,6233 L1420,6230 L1415,6227 L1415,6229 C1410.582,6229 1407,6232.582 1407,6237 C1407,6241.418 1410.582,6245 1415,6245 C1419.418,6245 1423,6242 1423,6237 L1421,6237 Z" id="arrow_repeat-[#237]"></path>
+        </g>
+    </g>
+</svg>

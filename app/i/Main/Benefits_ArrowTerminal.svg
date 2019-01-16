@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mouse_↑_window [#5]</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="117.981774%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4335C6" offset="0%"></stop>
+            <stop stop-color="#5D7DE0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="REGENCYONE-главная" transform="translate(-480.000000, -6226.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M480,6226 L480,6234 L482,6234 L482,6228 L498,6228 L498,6244 L492,6244 L492,6246 L500,6246 L500,6226 L480,6226 Z M480.362,6239.545 L490,6236 L486.455,6245.638 L484.132,6243.316 L481.448,6246 L480,6244.552 L482.684,6241.868 L480.362,6239.545 Z" id="mouse_↑_window-[#5]"></path>
+        </g>
+    </g>
+</svg>
